@@ -1,7 +1,7 @@
 import { Application } from 'express';
 
-import contact from './contact/contact';
+import answer from './answer/answer';
 
 export default (app: Application): void => {
-  app.use('/contact', contact);
+  app.use('/answer', answer);
 };
