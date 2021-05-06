@@ -1,5 +1,5 @@
 {
-  "name": "srv-load-contact",
+  "name": "srv-answer",
   "version": "1.0.0",
   "main": "./dist/server.js",
   "author": "Davi Silva <davi.silva@code7.com>",
